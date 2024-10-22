@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-commerce website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "•It is a MERN stack-based web app with products and payment gateway. It mimics the functionality of any ecommerce website and allows us to purchase products.",
+    url: "https://github.com/onkar964/E-commere",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PGLife",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "PG Life is a full-stack web application designed to help users find suitable PG hostels quickly and efficiently. Whether you're a student or a working professional, PG Life offers features to streamline your PG search process.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/onkar964/portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "30 Days Of JavaScript",
+    description: "JavaScript Tutorial",
+    url: "https://github.com/onkar964/30-Days-Of-JavaScript",
   },
 ];
 
